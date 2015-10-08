@@ -1,0 +1,22 @@
+
+
+#chatbox_p
+{
+	max-height: 200px;
+	width:300px;
+	overflow-y: auto;
+}
+
+
+.text
+{
+	font-size: 12px;
+}
+
+#weather_icon
+{
+	float: right;
+	vertical-align: middle;
+	height: 160px;
+	opacity: 0.8;
+}
